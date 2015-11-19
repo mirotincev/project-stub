@@ -1,0 +1,51 @@
+/*block('hello').content()(function() {
+
+    return [
+        {
+            block: 'header'
+        },
+        {
+            block: 'main'
+        },
+        {
+            block: 'slider',
+            elem: 'first'
+        },
+        {
+            block: 'footer'
+        }
+    ];
+});*/
+block('hello').elem('my')(
+
+/*    attrs()(function() {
+        return this.extend({
+            autocomplete : 'off',
+            autocorrect : 'off',
+            autocapitalize : 'off',
+            spellcheck : 'false'
+        }, applyNext());
+    })*/
+
+    js()(true),
+
+    content()(function(){
+        return [
+            {
+                block: 'header',
+                content: 'header'
+            },
+            {
+                block: 'main'
+            },
+            {
+                block: 'slider',
+                elem: 'first'
+            },
+            {
+                block: 'footer'
+            }
+        ];
+    })
+
+);

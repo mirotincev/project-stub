@@ -1,0 +1,18 @@
+block('hello__my').content()(function() {
+
+    return [
+        {
+            block: 'header'
+        },
+        {
+            block: 'main'
+        },
+        {
+            block: 'slider',
+            elem: 'first'
+        },
+        {
+            block: 'footer'
+        }
+    ];
+});
