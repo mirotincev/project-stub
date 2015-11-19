@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87708f95-ddac-4a68-81fe-36f1afd7e6c8" name="Default" comment="" />
+    <list default="true" id="87708f95-ddac-4a68-81fe-36f1afd7e6c8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common.blocks/hello/hello.js" afterPath="$PROJECT_DIR$/common.blocks/hello/hello.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js" afterPath="$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js" afterPath="$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js" />
+    </list>
     <ignored path="project-stub.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -51,12 +55,12 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
               <folding>
-                <marker date="1447959409000" expanded="true" signature="15:1230" placeholder="[...]" />
-                <marker date="1447959409000" expanded="true" signature="909:941" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
-                <marker date="1447959409000" expanded="true" signature="947:1001" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
-                <marker date="1447959409000" expanded="true" signature="1007:1038" placeholder="{&quot;block&quot;: &quot;page&quot;...}" />
-                <marker date="1447959409000" expanded="true" signature="1044:1145" placeholder="{&quot;block&quot;: &quot;i-bem&quot;...}" />
-                <marker date="1447959409000" expanded="true" signature="1151:1228" placeholder="{&quot;block&quot;: &quot;loader&quot;...}" />
+                <marker date="1447959994000" expanded="true" signature="15:1230" placeholder="[...]" />
+                <marker date="1447959994000" expanded="true" signature="909:941" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
+                <marker date="1447959994000" expanded="true" signature="947:1001" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
+                <marker date="1447959994000" expanded="true" signature="1007:1038" placeholder="{&quot;block&quot;: &quot;page&quot;...}" />
+                <marker date="1447959994000" expanded="true" signature="1044:1145" placeholder="{&quot;block&quot;: &quot;i-bem&quot;...}" />
+                <marker date="1447959994000" expanded="true" signature="1151:1228" placeholder="{&quot;block&quot;: &quot;loader&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -122,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/common.blocks/hello/hello.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.037128713">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -136,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -146,9 +150,9 @@
         <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
-                <marker date="1447959276000" expanded="true" signature="117080:118120" placeholder="/*...*/" />
+                <marker date="1447960035000" expanded="true" signature="117080:118174" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -158,9 +162,9 @@
         <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="404" column="0" selection-start-line="404" selection-start-column="0" selection-end-line="404" selection-end-column="0" />
+              <caret line="405" column="0" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
               <folding>
-                <marker date="1447959276000" expanded="true" signature="117080:118120" placeholder="/*...*/" />
+                <marker date="1447960035000" expanded="true" signature="117080:118174" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -170,10 +174,10 @@
         <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.browser.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1447959276000" expanded="true" signature="103071:104111" placeholder="/*...*/" />
+                <marker date="1447960035000" expanded="true" signature="103071:104165" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -193,16 +197,16 @@
         <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello1.deps.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello1.deps.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common.blocks/hello/hello1.deps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18564357">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding />
             </state>
@@ -243,10 +247,10 @@
         <option value="$PROJECT_DIR$/common.blocks/hello/hello.styl" />
         <option value="$PROJECT_DIR$/libs/bem-components/common.blocks/input/input.bemhtml" />
         <option value="$PROJECT_DIR$/common.blocks/hello/hello.bemhtml" />
-        <option value="$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js" />
-        <option value="$PROJECT_DIR$/common.blocks/hello/hello.js" />
-        <option value="$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js" />
         <option value="$PROJECT_DIR$/common.blocks/hello/hello.deps.js" />
+        <option value="$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js" />
+        <option value="$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js" />
+        <option value="$PROJECT_DIR$/common.blocks/hello/hello.js" />
       </list>
     </option>
   </component>
@@ -437,6 +441,7 @@
     <layout>
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44959128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -449,7 +454,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -508,9 +512,9 @@
     <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <marker date="1447959276000" expanded="true" signature="117080:118120" placeholder="/*...*/" />
+            <marker date="1447960035000" expanded="true" signature="117080:118174" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -518,9 +522,9 @@
     <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="404" column="0" selection-start-line="404" selection-start-column="0" selection-end-line="404" selection-end-column="0" />
+          <caret line="405" column="0" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
           <folding>
-            <marker date="1447959276000" expanded="true" signature="117080:118120" placeholder="/*...*/" />
+            <marker date="1447960035000" expanded="true" signature="117080:118174" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -528,10 +532,10 @@
     <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.browser.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1447959276000" expanded="true" signature="103071:104111" placeholder="/*...*/" />
+            <marker date="1447960035000" expanded="true" signature="103071:104165" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -557,12 +561,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
           <folding>
-            <marker date="1447959409000" expanded="true" signature="15:1230" placeholder="[...]" />
-            <marker date="1447959409000" expanded="true" signature="909:941" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
-            <marker date="1447959409000" expanded="true" signature="947:1001" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
-            <marker date="1447959409000" expanded="true" signature="1007:1038" placeholder="{&quot;block&quot;: &quot;page&quot;...}" />
-            <marker date="1447959409000" expanded="true" signature="1044:1145" placeholder="{&quot;block&quot;: &quot;i-bem&quot;...}" />
-            <marker date="1447959409000" expanded="true" signature="1151:1228" placeholder="{&quot;block&quot;: &quot;loader&quot;...}" />
+            <marker date="1447959994000" expanded="true" signature="15:1230" placeholder="[...]" />
+            <marker date="1447959994000" expanded="true" signature="909:941" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
+            <marker date="1447959994000" expanded="true" signature="947:1001" placeholder="{&quot;block&quot;: &quot;hello&quot;...}" />
+            <marker date="1447959994000" expanded="true" signature="1007:1038" placeholder="{&quot;block&quot;: &quot;page&quot;...}" />
+            <marker date="1447959994000" expanded="true" signature="1044:1145" placeholder="{&quot;block&quot;: &quot;i-bem&quot;...}" />
+            <marker date="1447959994000" expanded="true" signature="1151:1228" placeholder="{&quot;block&quot;: &quot;loader&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -623,30 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common.blocks/hello/hello.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common.blocks/hello/hello1.bemhtml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -657,8 +637,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common.blocks/hello/hello1.deps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18564357">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop.bundles/index/index.bemjson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.blocks/hello/__my/hello__my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.blocks/hello/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.037128713">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
       </provider>
